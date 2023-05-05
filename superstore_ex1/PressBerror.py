@@ -1,0 +1,3 @@
+class PressBerror(Exception):
+    pass
+
